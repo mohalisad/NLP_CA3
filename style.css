@@ -1,0 +1,24 @@
+.farsi {
+	font-family: Vazir;
+	direction: rtl
+}
+
+.center {
+	text-align: center
+}
+
+.right {
+	text-align: right
+}
+
+.justify {
+	text-align: justify
+}
+
+.blue {
+	color: blue
+}
+
+.green {
+	color: green
+}
